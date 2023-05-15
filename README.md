@@ -38,3 +38,6 @@ Finally, now compile your changes
 ## Credits
 
 https://www.tutorialspoint.com/react_native/react_native_quick_guide.htm
+
+
+https://blog.shahednasser.com/react-native-tutorial-create-your-first-app/#publish-the-app
